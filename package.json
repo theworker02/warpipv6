@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/warpipv6",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Warp host/ipv6 network string helpers for config audits.",
+  "bin": {
+    "warpipv6": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/warpipv6.git"
+  },
+  "homepage": "https://theworker02.github.io/warpipv6/",
+  "keywords": [
+    "warp",
+    "ipv6",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
